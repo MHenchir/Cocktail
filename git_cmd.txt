@@ -1,0 +1,7 @@
+
+1)*
+>  git init 
+2) 
+> git config --list
+
+2)git clone 
